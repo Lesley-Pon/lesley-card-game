@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 自訂樣式區 */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f9fafb; /* 淡灰白背景 */
+}
